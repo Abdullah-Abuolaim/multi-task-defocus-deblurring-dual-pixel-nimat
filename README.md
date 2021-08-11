@@ -19,7 +19,7 @@ Reference github repository for the paper [Improving Single-Image Defocus Deblur
   year={2021}
 }
 ```
-## Our New Image Motion and Attraction (NIMAT) Effect
+## Our New Image Motion Attribute (NIMAT) Effect
 <img src="./figures/nimat.gif" width="100%" alt="NIMAT effect">
 
 ## Dataset, Code, and Trained Models
