@@ -10,12 +10,12 @@
 
 <img src="./figures/teaser.gif" width="100%" alt="teaser figure">
 
-Reference github repository for the paper [Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://arxiv.org/pdf/0000.pdf). Abuolaim et al., arXiv:0000, 2021. If you use our dataset or code, please cite our paper:
+Reference github repository for the paper [Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://arxiv.org/pdf/2108.05251.pdf). Abuolaim et al., arXiv preprint arXiv:2108.05251, 2021. If you use our dataset or code, please cite our paper:
 ```
 @article{abuolaim2021multi,
   title={Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning},
   author={Abuolaim, Abdullah and Afifi, Mahmoud and Brown, Michael S},
-  booktitle={arXiv:0000},
+  booktitle={arXiv preprint arXiv:2108.05251},
   year={2021}
 }
 ```
